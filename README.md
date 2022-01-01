@@ -1,4 +1,4 @@
-![I am a Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5622AQF7jeyQaDTXnA/feedshare-shrink_800/0/1641038503456?e=1643846400&v=beta&t=RCKy7MSu_xDBwVJp7-nR9qT2f0AfMVdmDDiBvX_Yr0o)
 ## Hi there 👋, I'm Prokash
 #### I am a Web Developer 
 
